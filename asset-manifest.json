@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/My-tube/static/css/main.2b32f5dd.chunk.css",
+    "main.js": "/My-tube/static/js/main.3f3e20e2.chunk.js",
+    "main.js.map": "/My-tube/static/js/main.3f3e20e2.chunk.js.map",
+    "runtime-main.js": "/My-tube/static/js/runtime-main.00343ac5.js",
+    "runtime-main.js.map": "/My-tube/static/js/runtime-main.00343ac5.js.map",
+    "static/js/2.e54b287c.chunk.js": "/My-tube/static/js/2.e54b287c.chunk.js",
+    "static/js/2.e54b287c.chunk.js.map": "/My-tube/static/js/2.e54b287c.chunk.js.map",
+    "index.html": "/My-tube/index.html",
+    "precache-manifest.7e97c11ef00b51ab3eb21e9b666bb66e.js": "/My-tube/precache-manifest.7e97c11ef00b51ab3eb21e9b666bb66e.js",
+    "service-worker.js": "/My-tube/service-worker.js",
+    "static/css/main.2b32f5dd.chunk.css.map": "/My-tube/static/css/main.2b32f5dd.chunk.css.map",
+    "static/js/2.e54b287c.chunk.js.LICENSE.txt": "/My-tube/static/js/2.e54b287c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00343ac5.js",
+    "static/js/2.e54b287c.chunk.js",
+    "static/css/main.2b32f5dd.chunk.css",
+    "static/js/main.3f3e20e2.chunk.js"
+  ]
+}
