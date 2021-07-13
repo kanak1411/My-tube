@@ -7,7 +7,7 @@ class App extends React.Component{
     state={videos:[], SelectedVideo:''};
     componentDidMount()
     {
-        this.onTermSubmit('tajmahal');
+        this.onTermSubmit('sandeep maheshwari lakshya song');
     }
     onTermSubmit =async (term) =>{
 const response = await youtube.get('/search',{
@@ -15,7 +15,7 @@ params:{
     q:term,
     part:'snippet',
     maxResults:5,
-    key:'AIzaSyCsotIvFv09TsRjRfGr_fTMRzdhzOFdnO8'
+    key:'AIzaSyDA9BEQ4P6Pk21W4hFmxnc4_AEYzopiCKI'
     }});
 this.setState({videos:response.data.items, SelectedVideo:response.data.items[0]})   
 };
